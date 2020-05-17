@@ -7,11 +7,6 @@
                     {% icon "email" %}
                 </a>
             {% endif %}
-            {% if author.telephone %}
-                <a class="actions__btn has-tooltip" aria-label="Telephone" href="tel:{{ author.telephone | stripSpaces }}">
-                    {% icon "telephone" %}
-                </a>
-            {% endif %}
             <button class="actions__btn js-print utl-screen-only has-tooltip" aria-label="Print Résumé">
                 {% icon "print" %}
             </button>
