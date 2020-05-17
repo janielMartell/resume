@@ -26,6 +26,13 @@ layout: base
             {% include "entrylist.njk" %}
         </section>
 
+        <section class="section" id="section-projects">
+            <h2 class="section__title">Projects</h2>
+            {% set entries = collections.projects %}
+            {% set microformat = "p-experience" %}
+            {% include "entrylist.njk" %}
+        </section>
+
         {% if author.skills %}
         <section class="section section--half" id="section-skills">
             <h2 class="section__title">Skills</h2>
