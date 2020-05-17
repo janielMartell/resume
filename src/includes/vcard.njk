@@ -27,12 +27,6 @@
                     {{ author.email | obfuscate | safe }}
                 </a>
             {% endif %}
-            {% if author.telephone %}
-                <a class="vcard__link p-tel" aria-label="Telephone" href="tel:{{ author.telephone | stripSpaces }}">
-                    {% icon "telephone" %}
-                    {{ author.telephone }}
-                </a>
-            {% endif %}
             {% if author.website %}
                 <a class="vcard__link u-url" aria-label="Website" href="{{ author.website }}">
                     {% icon "website" %}
