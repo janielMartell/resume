@@ -81,7 +81,6 @@ body {
     line-height: $line-height;
 
     color: $text-color;
-    color: var(--text-color, $text-color);
     background-color: $bg-color;
 
     -ms-text-size-adjust: 100%;
@@ -235,11 +234,9 @@ input[type='search'] {
 
 ::selection {
     background: $primary-color;
-    background: var(--primary-color, $primary-color);
     color: #fff;
 }
 ::-moz-selection {
     background: $primary-color;
-    background: var(--primary-color, $primary-color);
     color: #fff;
 }
