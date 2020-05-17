@@ -1,44 +1,43 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "Janiel Martell",
+    "occupation": "Full-Stack Developer",
+    "location": "Puerto Rico",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "email": "martell.janiel@gmail.com",
+    "website": "https://janielmartell.github.io",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "UI/UX Design",
+        "HTML, CSS, & Javascript (ES6, Node, TS, & Frameworks)",
+        "C#, Java, PHP, & Python",
+        "SQL & NoSQL Databases",
+        "Azure & IBM Cloud",
+        "Git, Postman, & Docker",
+        "Github, Azure DevOps & Atlassian Solutions"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "Spanish",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "English",
             "level": "fluent"
         },
         {
-            "name": "French",
+            "name": "German",
             "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@janielMartell",
+            "url": "https://github.com/janielMartell"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "@janielMartell",
+            "url": "https://www.linkedin.com/in/janielMartell"
         }
     ]
 }
