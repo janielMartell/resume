@@ -1,18 +1,27 @@
 {
     "name": "Janiel Martell",
-    "occupation": "Full-Stack Developer",
-    "location": "Puerto Rico",
-    "avatar": "avatar.jpg",
+    "occupation": "Full-Stack Software Engineer",
+    "pronouns": "he/him",
+    "location": "Puerto Rico ",
+    "avatar": "avatar.png",
     "email": "martell.janiel@gmail.com",
     "website": "https://janielmartell.github.io",
     "skills": [
+        "Agile Methodology",
+        "Github, Azure DevOps & Atlassian products",
+        "Cloud Native Architecture",
+        "Full-Stack Development",
+        "Jamstack",
         "UI/UX Design",
-        "HTML, CSS, & Javascript (ES6, Node, TS, & Frameworks)",
-        "C#, Java, PHP, & Python",
+        "Unit Testing"
+    ],
+    "technicalSkills": [
+        "HTML, CSS, Javascript / TypeScript (ES6 & Frameworks)",
+        "C#, Java, PHP, PowerShell, & Python",
         "SQL & NoSQL Databases",
-        "Azure & IBM Cloud",
-        "Git, Postman, & Docker",
-        "Github, Azure DevOps & Atlassian Solutions"
+        "Microsoft Azure (Sovereign & Commercial)",
+        "Jekyll & Eleventy",
+        "Figma & Adobe XD"
     ],
     "languages": [
         {
@@ -22,10 +31,6 @@
         {
             "name": "English",
             "level": "fluent"
-        },
-        {
-            "name": "German",
-            "level": "basic"
         }
     ],
     "social": [
