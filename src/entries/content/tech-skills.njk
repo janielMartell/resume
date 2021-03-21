@@ -1,0 +1,10 @@
+---
+tags: custom
+title: Tech Stack
+---
+
+<ul class="bulletlist">
+    {% for skill in author.technicalSkills %}
+        <li class="p-skill">{{ skill }}</li>
+    {% endfor %}
+</ul>
